@@ -7,9 +7,6 @@ using KPLNET.Utils;
 namespace KPLNET.Http
 {
     using Callback = Action<bool, string>;
-    using System.Web;
-    
-    using KPLNET.Http;
     using System.Threading;
     public class Ec2Metadata
     {

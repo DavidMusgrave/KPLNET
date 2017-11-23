@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Diagnostics;
 using System.Collections.Generic;
 using System.Threading;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 using Aws.Kinesis.Protobuf;
-using Google.Protobuf;
-
 using KPLNETInterface;
 using KPLNET;
 

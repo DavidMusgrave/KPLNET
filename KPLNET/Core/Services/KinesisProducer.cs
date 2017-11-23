@@ -5,8 +5,6 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 
 using Aws.Kinesis.Protobuf;
-using Google.Protobuf;
-
 using KPLNETInterface;
 using KPLNET.Auth;
 using KPLNET.Core.Clients.KinesisClient;
