@@ -5,6 +5,7 @@
 *.exe
 *.ps1
 *.nupkg
+*.suo
 /HttpMachine/obj/Debug
 /KinesisConsumerTest/bin/Debug
 /KinesisConsumerTest/obj/Debug
